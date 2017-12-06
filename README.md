@@ -1,1 +1,1 @@
-# GameOfLife#android-game-of-life
+#android-game-of-life
